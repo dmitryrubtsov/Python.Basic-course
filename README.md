@@ -1,4 +1,4 @@
-# Python.Basic-course
+# **Python.Basic-course**
 Education
 Алгоритмы и структуры данных на Python. Базовый курс. Учебные задания на портале GeekBrains.
 
